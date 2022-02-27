@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<cauio.h>
+void main ()
+{ 
+int a,b,x;
+printf("enter the number");
+scanf("%d %d",&a,&b);
+x=a+b;
+printf("the sum is %d,x");
+getch(); 
+}
